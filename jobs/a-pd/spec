@@ -1,0 +1,9 @@
+---
+name: a-pd
+
+templates:
+  drain.sh: bin/drain
+
+packages: []
+
+properties: {}
